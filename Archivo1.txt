@@ -1,1 +1,2 @@
 Archivo1 de prueba para el curso de git.
+Este archivo ha sido modificado
