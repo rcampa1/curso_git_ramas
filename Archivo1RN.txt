@@ -2,3 +2,4 @@ Archivo1 de prueba para el curso de git.
 Este archivo ha sido modificado
 
 Este archivo lo utilizaremos en la siguiente práctica
+Cambio para ejemplo de git diff.
