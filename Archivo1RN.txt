@@ -3,3 +3,5 @@ Este archivo ha sido modificado
 
 Este archivo lo utilizaremos en la siguiente práctica
 Cambio para ejemplo de git diff.
+
+Cambio para el ejercicio de commit amend.
